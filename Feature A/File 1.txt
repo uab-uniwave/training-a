@@ -1,1 +1,2 @@
 File 1 text file
+Cahnges in feature B Branch
